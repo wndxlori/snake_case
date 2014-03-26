@@ -1,6 +1,10 @@
-# SnakeCase
+# snake_case
+
+[![Gem Version](https://badge.fury.io/rb/motion-momentum.png)](http://badge.fury.io/rb/snake_case) [![Build Status](https://travis-ci.org/FluffyJack/motion-momentum.png)](https://travis-ci.org/FluffyJack/snake_case) [![Code Climate](https://codeclimate.com/github/FluffyJack/motion-momentum.png)](https://codeclimate.com/github/FluffyJack/snake_case) [![Dependency Status](https://gemnasium.com/FluffyJack/motion-momentum.png)](https://gemnasium.com/FluffyJack/snake_case)
 
 For RubyMotion developers who are a fan of snake_case. Converting to snake_case, one API at a time. Slowly converting any API I use to snake_case or to a more idiomatic way of doing it. Lots of monkey patching, because RUBY!
+
+![snake_case_all_the_things](http://i.imgur.com/uNxIfp0.jpg)
 
 ## Installation
 
