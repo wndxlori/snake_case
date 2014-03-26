@@ -1,6 +1,6 @@
 # SnakeCase
 
-For RubyMotion developers who are a fan of snake_case. Converting to snake_case, one API at a time.\n\nSlowly converting any API I use to snake_case or to a more idiomatic way of doing it. Lots of monkey patching, because RUBY!
+For RubyMotion developers who are a fan of snake_case. Converting to snake_case, one API at a time. Slowly converting any API I use to snake_case or to a more idiomatic way of doing it. Lots of monkey patching, because RUBY!
 
 ## Installation
 
