@@ -6,6 +6,10 @@ For RubyMotion developers who are a fan of snake_case. Converting to snake_case,
 
 ![snake_case_all_the_things](http://i.imgur.com/uNxIfp0.jpg)
 
+## Help support this gem by learning
+
+The only reason I can keep making gems and keep them up to date is because lovely people like yourself support me. I run the [MotionInMotion screencasts](https://motioninmotion.tv/) which you can sign up to for $9/month, I also have a book coming out called [RubyMotion for Rails Developers](http://book.motioninmotion.tv/) which you can pay what you like to buy, and I provide one-on-one training through pairing on [AirPair{}Me](http://airpair.me/fluffyjack?utm_source=expert&utm_medium=readme&utm_term=snake_case&utm_content=github&utm_campaign=airpairme). All support, even small amounts really helps.
+
 ## Installation
 
 Add this line to your application's Gemfile:
